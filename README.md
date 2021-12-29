@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://biancadente.github.io/NFT-card-challenge/)
+- Solution URL: (https://biancadente.github.io/NFT-card-challenge/)
 
 ## My process
 
